@@ -1,0 +1,19 @@
+{
+  "name": "flex-turismos",
+  "version": "1.0.0",
+  "description": "Trata-se da parte front-end de um site de turismos, que coloca em prática diversos conceitos de posicionamento de elementos com Flexbox em CSS e de responsividade. Aqui está uma rolagem rápida da página:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeatrizCazatti/flex-turismos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeatrizCazatti/flex-turismos/issues"
+  },
+  "homepage": "https://github.com/BeatrizCazatti/flex-turismos#readme"
+}
